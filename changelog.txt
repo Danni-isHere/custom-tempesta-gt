@@ -1,0 +1,26 @@
+Tempesta GT Finish 3 
+
+AttribSysVault Changes:
+
+- Reverse Gear Torque Scale increased:  1.75 -> 2.5
+- Reverse Gear Ratio decreased:         1.07 -> 0.8
+- Transmission Efficiency increased:    0.5  -> 1.0
+- Max Boost Speed increased:            184  -> 190
+- Boost Height Offset decreased:       -0.1  -> 0.0
+- Yaw Damping on Take Off decreased:    0.04 -> 0.0
+- Roll Limit on Take Off increased:     0.65 -> 1.0
+- Pitch Damping on Take Off decreased:  0.95 -> 0.0
+- Max Cruising Speed increased:         161  -> 170
+- Drive Time Deform Limit decreased:    0.2  -> 0.0
+- Down Force decreased:                 21   -> 19
+
+Texture/Material Changes:
+
+- Replaced original texture with the regular Tempesta's livery from the Feb 22 2007 build of Burnout 5
+  - A few minor adjustments were needed to line the grey lines up on the rear left fender
+- Changed headlight cover material to be black, not green
+
+======================================================================================================
+
+VEHICLELIST.BUNDLE will need to be changed in order to use the correct wheels. 
+Entry #419 should be the Tempesta GT Finish 3, and the wheels are: 10Spoke_03_18_650
